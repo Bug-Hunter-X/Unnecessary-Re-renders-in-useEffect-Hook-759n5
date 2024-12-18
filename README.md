@@ -1,0 +1,2 @@
+# Unnecessary Re-renders in useEffect Hook
+This repository demonstrates a common React bug where the useEffect hook causes unnecessary re-renders due to incorrect dependency array. The bug is demonstrated in `bug.js`, and the solution is provided in `bugSolution.js`.
